@@ -66,5 +66,4 @@ clf.fit(X_train, y_train)
 print(f"Accuracy: {clf.score(X_test, y_test)}")
 ```
 
-## Citation
-If you use this dataset in your research, please cite our paper (MERCon 2026).
+
